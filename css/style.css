@@ -1440,17 +1440,17 @@ h1, h2, h3, h4, h5,
       border-bottom: 1px solid #efefef;
       margin: 0;
       position: relative; }
-      .feature-car-rent-box-1 ul li .spec {
+      .spec {
         position: absolute;
-        right: 0; }
+        right: 1vw; }
       .feature-car-rent-box-1 ul li:last-child {
         border-bottom: none; }
 
 .trip-form {
   padding: 40px 30px;
-  background: #fff;
+  background: rgba(255, 255, 255, 0.774);
   position: relative;
-  margin-top: -90px;
+  margin-top: -500px;
   -webkit-box-shadow: 0 0 10px 0px rgba(0, 0, 0, 0.1);
   box-shadow: 0 0 10px 0px rgba(0, 0, 0, 0.1); }
   .trip-form h3 {
