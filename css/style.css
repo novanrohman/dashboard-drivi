@@ -1474,10 +1474,11 @@ h1, h2, h3, h4, h5,
       padding-bottom: 5px;
       border-bottom: 1px solid #efefef;
       display: block;
-      position: relative; }
+      position: relative;}
       .item-1 .item-1-contents ul li .spec {
         position: absolute;
-        right: 0; }
+        right: 0;
+       }
       .item-1 .item-1-contents ul li:last-child {
         border-bottom: none; }
   .item-1 .item-1-contents .action {
@@ -1578,3 +1579,7 @@ h1, h2, h3, h4, h5,
     -ms-flex: 0 0 50px;
     flex: 0 0 50px;
     border-radius: 50%; }
+
+ul{
+  list-style: none;
+}
